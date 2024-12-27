@@ -1,7 +1,7 @@
 # FOTO OWL Project
 
 ## Description
-FOTO OWL is a full-stack MERN (MongoDB, Express.js, React, Node.js) application designed to provide a modern and intuitive photo-sharing platform. It allows users to upload, share, and manage their photos, while offering features like real-time messaging, Google authentication, and file uploads.
+FOTO OWL is a full-stack application designed to provide a modern and intuitive photo-sharing platform. It allows users to upload, share, and manage their photos, while offering features like real-time messaging, Google authentication, and file uploads.
 
 ## Key Features
 - **Google Authentication**: Secure login and registration system using Google OAuth for seamless user authentication.
@@ -24,6 +24,11 @@ FOTO OWL is a full-stack MERN (MongoDB, Express.js, React, Node.js) application 
 ## Setup and Installation
 
 To get the project up and running locally, follow these steps:
+
+1. **Set up steps** to install and configure React, **nodemon**, **Express**, **Mongoose**, **Socket.IO**, and **Multer** for the project.
+2. **Backend server configuration** with **Multer** for file uploads and **Socket.IO** for real-time messaging.
+3. Detailed **setup instructions** for both frontend and backend to make it easy for anyone to run the project locally.
+
 
 ### 1. Clone the repository
 First, clone the repository to your local machine:
