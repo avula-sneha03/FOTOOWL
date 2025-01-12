@@ -1,8 +1,4 @@
-# FOTO OWL
-
-## Description
-FOTO OWL is a full-stack MERN (MongoDB, Express.js, React, Node.js) application designed to provide a modern and intuitive photo-sharing platform. It allows users to upload, share, and manage their photos, while offering features like real-time messaging, Google authentication, and file uploads. The application is also **responsive** and utilizes **React hooks**, **components**, and **context** for efficient state management.
-
+# StudyLink
 ## Key Features
 - **Google Authentication**: Secure login and registration system using Google OAuth for seamless user authentication.
 - **Real-Time Chatting**: Real-time messaging powered by **Socket.IO**, enabling instant communication between users.
